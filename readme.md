@@ -9,7 +9,7 @@
 ## Key Learnings from the project
 
 - _For the first time,learned about mobile responsiveness and learned to use media quires with breakpoints._
-- _Explored shadow properties_
+- _Explored shadow properties._
 
 ---
 
